@@ -1,6 +1,4 @@
 ### Hi there 👋
-### 🔭 I’m currently working on my IT Systems Admin AAS degree at Peninsula College!
-### 📫 How to reach me: jwtc2000@gmail.com
 
 <!--
 **Jwtc2000/Jwtc2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
