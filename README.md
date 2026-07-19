@@ -28,9 +28,6 @@ A progressive web app for field videography work — aggregates live SPD/SFD 911
 ### Personal Assistant Stack ("JARVIS")
 A self-hosted RAG pipeline built on **FastAPI + Claude + Voyage embeddings**, served over a **Tailscale** mesh network. Originally architected to drive a smart-glasses heads-up display, including a live fire-dispatch poller.
 
-### Barcode Generator
-A zero-dependency, single-file HTML tool generating **Code 128** and **Interleaved 2 of 5** barcodes, built for enterprise field users operating under strict corporate IT constraints.
-
 ---
 
 ## 🛠 Tech I Work With
