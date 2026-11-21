@@ -30,9 +30,8 @@ about it has to be written down.
 SharePoint) · workstation builds, drive cloning, replacement · printers, displays, peripherals ·
 basic networking and TCP/IP · ServiceNow
 
-**Systems** — virtualization for legacy data recovery · Proxmox VE monitoring and upkeep ·
-Ubuntu Server, headless, administered over SSH · Docker · private-VPN-only access behind a
-default-deny firewall, with a running change log and dated security checks
+**Systems** — virtualization for legacy data recovery · Proxmox VE · Ubuntu Server · Docker ·
+change logs and dated security checks
 
 **AV / broadcast** — TriCaster switching · cameras, audio mixers, streaming encoders ·
 projection and display systems · live event and assembly support
